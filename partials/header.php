@@ -18,5 +18,5 @@ session_start();
 </head>
 <body>
     <header class="container">
-    <!-- Creare un form che invii in GET la lunghezza della password. -->
+    
     </header>
